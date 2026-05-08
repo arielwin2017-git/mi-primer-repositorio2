@@ -1,0 +1,7 @@
+hola mundo pakinet
+
+
+guardar cambios de la nube git hub a la PC: git pull
+
+guardar cambios de la PC al la nube git : git add.
+
