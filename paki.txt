@@ -1,5 +1,6 @@
 hola mundo pakinet
 
+comandos para trabajo
 
 guardar cambios de la nube git hub a la PC: git pull
 
