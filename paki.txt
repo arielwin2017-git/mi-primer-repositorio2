@@ -2,7 +2,7 @@ hola mundo pakinet
 
 comandos para trabajo
 
-guardar cambios de la nube git hub a la PC: git pull
+guardar cambios de la nube git hub a la PC: git pull origin main
 
 guardar cambios de la PC al la nube git : git add . + git commit -m "mensaje" + git push origin main
 
